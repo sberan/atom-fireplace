@@ -1,5 +1,5 @@
-# atom-fireplace package
+# atom-fireplace
 
-A short description of your package.
+Finally, a real-time, high definition fireplace for your text editor! Use `ctrl+option+o` to activate.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![screenshot](https://raw.githubusercontent.com/sberan/atom-fireplace/master/screenshot.gif)
